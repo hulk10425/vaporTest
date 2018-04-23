@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "e8475df57bfe0df49b9c55c600205300"
+build_time: [1524472553, 569442000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher+Method.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/ByteStream.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Exports.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Helpers.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC+Method.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash+Method.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Hash+Random.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/LibreSSLError.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/PseudoRandom.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Random.swift": [1524466195, 0]

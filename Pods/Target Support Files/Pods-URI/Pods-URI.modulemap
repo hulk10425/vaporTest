@@ -1,0 +1,6 @@
+framework module Pods_URI {
+  umbrella header "Pods-URI-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,160 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Event"
+provides-nominal:
+- "5Vapor5EventC"
+provides-member:
+- ["5Vapor5EventC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!=="
+- "AssignmentPrecedence"
+- "Event"
+- "Subscription"
+- "Void"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "filter"]
+- !private ["Sa", "forEach"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "filter"]
+- !private ["s23BidirectionalCollectionP", "forEach"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "filter"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "filter"]
+- !private ["s10CollectionP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "filter"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "filter"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "filter"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "filter"]
+- !private ["s9DecodableP", "forEach"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "filter"]
+- !private ["s9EncodableP", "forEach"]
+- !private ["s9EquatableP", "append"]
+- !private ["s9EquatableP", "filter"]
+- !private ["s9EquatableP", "forEach"]
+- ["5Vapor5EventC", "Handler"]
+- ["5Vapor5EventC", "Subscriber"]
+- ["5Vapor5EventC", "Subscription"]
+- ["5Vapor5EventC", "T"]
+- ["5Vapor5EventC", "Void"]
+- ["5Vapor5EventC", "deinit"]
+- ["5Vapor5EventC", "init"]
+- ["5Vapor5EventC", "post"]
+- ["5Vapor5EventC", "subscribe"]
+- !private ["5Vapor5EventC", "subscribers"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "filter"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "filter"]
+- !private ["s17MutableCollectionP", "forEach"]
+- !private ["4Node0A13InitializableP", "append"]
+- !private ["4Node0A13InitializableP", "filter"]
+- !private ["4Node0A13InitializableP", "forEach"]
+- !private ["4Node0A13RepresentableP", "append"]
+- !private ["4Node0A13RepresentableP", "filter"]
+- !private ["4Node0A13RepresentableP", "forEach"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "filter"]
+- !private ["s22RandomAccessCollectionP", "forEach"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "filter"]
+- !private ["s26RangeReplaceableCollectionP", "forEach"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "filter"]
+- !private ["s8SequenceP", "forEach"]
+- ["5Vapor12SubscriptionC", "Holder"]
+- ["5Vapor12SubscriptionC", "Subscription"]
+- !private ["5Vapor12SubscriptionC", "completion"]
+- !private ["5Vapor12SubscriptionC", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "filter"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "filter"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "filter"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- "5Vapor5EventC"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s17MutableCollectionP"
+- !private "4Node0A13InitializableP"
+- !private "4Node0A13RepresentableP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- "5Vapor12SubscriptionC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/URI.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/JSON.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/SMTP.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/HTTP.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/TLS.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/FormData.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Cache.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Console.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Crypto.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Branches.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Cookies.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Configs.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Sessions.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Sockets.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/WebSockets.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/BCrypt.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Transport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "86113f8e89c12c49525817b4148c907f"

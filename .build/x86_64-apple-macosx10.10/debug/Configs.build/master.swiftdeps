@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "735ba79bbe3fad02a7eb81ced102d940"
+build_time: [1524472559, 422244000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Arguments.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Directory.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigError.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigInitializable.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Env.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Node+Env.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/String+Env.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Environment.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible+Merge.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Node+Merge.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Source.swift": [1524466197, 0]

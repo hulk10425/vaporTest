@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "e72a4eb2f397950804efe3d56912bb06"
+build_time: [1524472566, 886161000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": [1524466197, 0]

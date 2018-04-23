@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "82c05202f0583d80f4bccc3d8a259b20"
+build_time: [1524472565, 198909000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+BytesConvertible.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Parse.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Serialize.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+BytesConvertible.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Literal.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Parse.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Serialize.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Request+Cookies.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Response+Cookies.swift": [1524466197, 0]

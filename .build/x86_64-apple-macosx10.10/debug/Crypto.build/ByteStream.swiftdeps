@@ -1,0 +1,128 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ByteStream"
+- "BasicByteStream"
+provides-nominal:
+- "6Crypto10ByteStreamP"
+- "6Crypto15BasicByteStreamC"
+- "6Crypto15BasicByteStreamC5ErrorO"
+provides-member:
+- ["6Crypto10ByteStreamP", ""]
+- ["6Crypto15BasicByteStreamC", ""]
+- ["6Crypto15BasicByteStreamC5ErrorO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- "=="
+- "AssignmentPrecedence"
+- "BasicByteStream"
+- "Bool"
+- !private "BooleanLiteralType"
+- "ByteStream"
+- "Bytes"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Swift"
+depends-member:
+- ["6Crypto15BasicByteStreamC", "Bool"]
+- ["6Crypto15BasicByteStreamC", "Bytes"]
+- ["6Crypto15BasicByteStreamC", "Error"]
+- ["6Crypto15BasicByteStreamC", "Swift"]
+- ["6Crypto15BasicByteStreamC", "bytes"]
+- ["6Crypto15BasicByteStreamC", "closed"]
+- ["6Crypto15BasicByteStreamC", "deinit"]
+- ["6Crypto15BasicByteStreamC", "init"]
+- ["6Crypto15BasicByteStreamC", "next"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["6Crypto10ByteStreamP", "Bool"]
+- ["6Crypto10ByteStreamP", "Bytes"]
+- !private ["6Crypto10ByteStreamP", "Error"]
+- ["6Crypto10ByteStreamP", ""]
+- !private ["6Crypto10ByteStreamP", "bytes"]
+- ["6Crypto10ByteStreamP", "closed"]
+- ["6Crypto10ByteStreamP", "next"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", ""]
+- ["s9EquatableP", "_code"]
+- ["s9EquatableP", "_domain"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "_getEmbeddedNSError"]
+- ["s9EquatableP", "_userInfo"]
+- !private ["s9EquatableP", "closed"]
+- ["s9EquatableP", "hashValue"]
+- ["6Crypto15BasicByteStreamC5ErrorO", "__derived_enum_equals"]
+- ["6Crypto15BasicByteStreamC5ErrorO", "_code"]
+- ["6Crypto15BasicByteStreamC5ErrorO", "_domain"]
+- ["6Crypto15BasicByteStreamC5ErrorO", "_getEmbeddedNSError"]
+- ["6Crypto15BasicByteStreamC5ErrorO", "_userInfo"]
+- ["6Crypto15BasicByteStreamC5ErrorO", "closed"]
+- ["6Crypto15BasicByteStreamC5ErrorO", "deinit"]
+- ["6Crypto15BasicByteStreamC5ErrorO", "hashValue"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "closed"]
+- ["s5ErrorP", "hashValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s8HashableP", ""]
+- ["s8HashableP", "_code"]
+- ["s8HashableP", "_domain"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "_getEmbeddedNSError"]
+- ["s8HashableP", "_userInfo"]
+- !private ["s8HashableP", "closed"]
+- ["s8HashableP", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- "6Crypto15BasicByteStreamC"
+- !private "Sb"
+- "6Crypto10ByteStreamP"
+- !private "s7CVarArgP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "6Crypto15BasicByteStreamC5ErrorO"
+- "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "90da2cfff065fd50083849e7945c8825"

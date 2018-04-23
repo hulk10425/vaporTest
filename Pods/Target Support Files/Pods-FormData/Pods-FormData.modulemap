@@ -1,0 +1,6 @@
+framework module Pods_FormData {
+  umbrella header "Pods-FormData-umbrella.h"
+
+  export *
+  module * { export * }
+}

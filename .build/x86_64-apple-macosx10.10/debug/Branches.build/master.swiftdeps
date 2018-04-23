@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "2290c0bf5aca0847a4d767b440f7d1ba"
+build_time: [1524472557, 579800000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch+Paths.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/SubBranchMap.swift": [1524466195, 0]

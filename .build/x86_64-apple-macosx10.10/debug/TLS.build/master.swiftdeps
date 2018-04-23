@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "36f45d95318b83b2da4335d58fd07156"
+build_time: [1524472557, 236189000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Certificates.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ClientSocket.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Context.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Error.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Exports.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/InternetSocket.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Mode.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ReadableSocket.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ServerSocket.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Socket.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Utilities.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/WriteableSocket.swift": [1524466194, 0]

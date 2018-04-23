@@ -1,0 +1,6 @@
+framework module Pods_Cookies {
+  umbrella header "Pods-Cookies-umbrella.h"
+
+  export *
+  module * { export * }
+}

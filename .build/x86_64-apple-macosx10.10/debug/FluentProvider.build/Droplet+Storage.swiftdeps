@@ -1,0 +1,305 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FluentProviderError"
+provides-nominal:
+- "14FluentProvider0aB5ErrorO"
+provides-member:
+- ["5Vapor7DropletC", ""]
+- ["14FluentProvider0aB5ErrorO", ""]
+- ["5Vapor7DropletC", "database"]
+- ["5Vapor7DropletC", "assertDatabase"]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Database"
+- "Debuggable"
+- "Droplet"
+- "Error"
+- "FluentProviderError"
+- "String"
+- "StringLiteralType"
+- !private "fluentDatabaseKey"
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- ["4HTTP17BodyRepresentableP", "init"]
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesRepresentableP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- ["s10ComparableP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_code"]
+- ["s28CustomDebugStringConvertibleP", "_domain"]
+- ["s28CustomDebugStringConvertibleP", "_getEmbeddedNSError"]
+- ["s28CustomDebugStringConvertibleP", "_userInfo"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "documentationLinks"]
+- ["s28CustomDebugStringConvertibleP", "gitHubIssues"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "identifier"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "noDatabase"]
+- ["s28CustomDebugStringConvertibleP", "possibleCauses"]
+- ["s28CustomDebugStringConvertibleP", "readableName"]
+- ["s28CustomDebugStringConvertibleP", "reason"]
+- ["s28CustomDebugStringConvertibleP", "stackOverflowQuestions"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "suggestedFixes"]
+- ["s28CustomDebugStringConvertibleP", "typeIdentifier"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- ["9Debugging10DebuggableP", ""]
+- ["9Debugging10DebuggableP", "_code"]
+- ["9Debugging10DebuggableP", "_domain"]
+- ["9Debugging10DebuggableP", "_getEmbeddedNSError"]
+- ["9Debugging10DebuggableP", "_userInfo"]
+- ["9Debugging10DebuggableP", "debugDescription"]
+- ["9Debugging10DebuggableP", "documentationLinks"]
+- ["9Debugging10DebuggableP", "gitHubIssues"]
+- ["9Debugging10DebuggableP", "hashValue"]
+- ["9Debugging10DebuggableP", "identifier"]
+- ["9Debugging10DebuggableP", "noDatabase"]
+- ["9Debugging10DebuggableP", "possibleCauses"]
+- ["9Debugging10DebuggableP", "readableName"]
+- ["9Debugging10DebuggableP", "reason"]
+- ["9Debugging10DebuggableP", "stackOverflowQuestions"]
+- ["9Debugging10DebuggableP", "suggestedFixes"]
+- ["9Debugging10DebuggableP", "typeIdentifier"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "subscript"]
+- ["5Vapor7DropletC", "Database"]
+- !private ["5Vapor7DropletC", "FluentProviderError"]
+- ["5Vapor7DropletC", "assertDatabase"]
+- ["5Vapor7DropletC", "database"]
+- !private ["5Vapor7DropletC", "fluentDatabaseKey"]
+- !private ["5Vapor7DropletC", "storage"]
+- ["4SMTP25EmailAddressRepresentableP", "init"]
+- ["4SMTP22EmailBodyRepresentableP", "init"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "subscript"]
+- ["s9EquatableP", ""]
+- ["s9EquatableP", "_code"]
+- ["s9EquatableP", "_domain"]
+- ["s9EquatableP", "_getEmbeddedNSError"]
+- ["s9EquatableP", "_userInfo"]
+- ["s9EquatableP", "debugDescription"]
+- ["s9EquatableP", "documentationLinks"]
+- ["s9EquatableP", "gitHubIssues"]
+- ["s9EquatableP", "hashValue"]
+- ["s9EquatableP", "identifier"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "noDatabase"]
+- ["s9EquatableP", "possibleCauses"]
+- ["s9EquatableP", "readableName"]
+- ["s9EquatableP", "reason"]
+- ["s9EquatableP", "stackOverflowQuestions"]
+- !private ["s9EquatableP", "subscript"]
+- ["s9EquatableP", "suggestedFixes"]
+- ["s9EquatableP", "typeIdentifier"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "debugDescription"]
+- ["s5ErrorP", "documentationLinks"]
+- ["s5ErrorP", "gitHubIssues"]
+- ["s5ErrorP", "hashValue"]
+- ["s5ErrorP", "identifier"]
+- ["s5ErrorP", "noDatabase"]
+- ["s5ErrorP", "possibleCauses"]
+- ["s5ErrorP", "readableName"]
+- ["s5ErrorP", "reason"]
+- ["s5ErrorP", "stackOverflowQuestions"]
+- ["s5ErrorP", "suggestedFixes"]
+- ["s5ErrorP", "typeIdentifier"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["14FluentProvider0aB5ErrorO", "String"]
+- ["14FluentProvider0aB5ErrorO", "__derived_enum_equals"]
+- ["14FluentProvider0aB5ErrorO", "_code"]
+- ["14FluentProvider0aB5ErrorO", "_domain"]
+- ["14FluentProvider0aB5ErrorO", "_getEmbeddedNSError"]
+- ["14FluentProvider0aB5ErrorO", "_userInfo"]
+- ["14FluentProvider0aB5ErrorO", "debugDescription"]
+- ["14FluentProvider0aB5ErrorO", "deinit"]
+- ["14FluentProvider0aB5ErrorO", "documentationLinks"]
+- ["14FluentProvider0aB5ErrorO", "gitHubIssues"]
+- ["14FluentProvider0aB5ErrorO", "hashValue"]
+- ["14FluentProvider0aB5ErrorO", "identifier"]
+- ["14FluentProvider0aB5ErrorO", "noDatabase"]
+- ["14FluentProvider0aB5ErrorO", "possibleCauses"]
+- ["14FluentProvider0aB5ErrorO", "readableName"]
+- ["14FluentProvider0aB5ErrorO", "reason"]
+- ["14FluentProvider0aB5ErrorO", "stackOverflowQuestions"]
+- ["14FluentProvider0aB5ErrorO", "suggestedFixes"]
+- ["14FluentProvider0aB5ErrorO", "typeIdentifier"]
+- ["s8HashableP", ""]
+- ["s8HashableP", "_code"]
+- ["s8HashableP", "_domain"]
+- ["s8HashableP", "_getEmbeddedNSError"]
+- ["s8HashableP", "_userInfo"]
+- ["s8HashableP", "debugDescription"]
+- ["s8HashableP", "documentationLinks"]
+- ["s8HashableP", "gitHubIssues"]
+- ["s8HashableP", "hashValue"]
+- ["s8HashableP", "identifier"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "noDatabase"]
+- ["s8HashableP", "possibleCauses"]
+- ["s8HashableP", "readableName"]
+- ["s8HashableP", "reason"]
+- ["s8HashableP", "stackOverflowQuestions"]
+- ["s8HashableP", "suggestedFixes"]
+- ["s8HashableP", "typeIdentifier"]
+- !private ["4HTTP13KeyAccessibleP", "subscript"]
+- !private ["7Configs13KeyAccessibleP", "subscript"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["4Node0A13InitializableP", "init"]
+- !private ["4Node0A13InitializableP", "subscript"]
+- ["4Node0A13RepresentableP", "init"]
+- !private ["4Node0A13RepresentableP", "subscript"]
+- ["7Routing15ParameterizableP", "init"]
+- ["13PathIndexable0A7IndexerP", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["5Vapor23RequestContentSubscriptP", "init"]
+- !private ["4HTTP9ResponderP", "FluentProviderError"]
+- !private ["4HTTP9ResponderP", "database"]
+- !private ["4HTTP9ResponderP", "fluentDatabaseKey"]
+- !private ["4HTTP9ResponderP", "storage"]
+- ["4HTTP21ResponseRepresentableP", "init"]
+- !private ["7Routing12RouteBuilderP", "FluentProviderError"]
+- !private ["7Routing12RouteBuilderP", "database"]
+- !private ["7Routing12RouteBuilderP", "fluentDatabaseKey"]
+- !private ["7Routing12RouteBuilderP", "storage"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- "4HTTP17BodyRepresentableP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "9Debugging10DebuggableP"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- "5Vapor7DropletC"
+- "4SMTP25EmailAddressRepresentableP"
+- "4SMTP22EmailBodyRepresentableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s5ErrorP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "14FluentProvider0aB5ErrorO"
+- "s8HashableP"
+- !private "4HTTP13KeyAccessibleP"
+- !private "7Configs13KeyAccessibleP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "7Routing15ParameterizableP"
+- "13PathIndexable0A7IndexerP"
+- "s26RangeReplaceableCollectionP"
+- "5Vapor23RequestContentSubscriptP"
+- !private "4HTTP9ResponderP"
+- "4HTTP21ResponseRepresentableP"
+- !private "7Routing12RouteBuilderP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/URI.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/JSON.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/SMTP.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/HTTP.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/TLS.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/FormData.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Cache.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Console.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/SQLite.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Crypto.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Branches.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Cookies.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Configs.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Sessions.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Sockets.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/WebSockets.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Fluent.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/BCrypt.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Transport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include/sqlite3.h"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "3f3886f76a6696e0d4b492ae45830be0"

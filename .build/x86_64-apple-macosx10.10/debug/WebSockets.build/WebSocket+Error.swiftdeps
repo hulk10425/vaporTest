@@ -1,0 +1,84 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "10WebSockets0A6SocketC5ErrorO"
+provides-member:
+- ["10WebSockets0A6SocketC", ""]
+- ["10WebSockets0A6SocketC5ErrorO", ""]
+- ["10WebSockets0A6SocketC", "Error"]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Swift"
+- "WebSocket"
+depends-member:
+- ["s9EquatableP", ""]
+- ["s9EquatableP", "_code"]
+- ["s9EquatableP", "_domain"]
+- ["s9EquatableP", "_getEmbeddedNSError"]
+- ["s9EquatableP", "_userInfo"]
+- ["s9EquatableP", "hashValue"]
+- ["10WebSockets0A6SocketC5ErrorO", "__derived_enum_equals"]
+- ["10WebSockets0A6SocketC5ErrorO", "_code"]
+- ["10WebSockets0A6SocketC5ErrorO", "_domain"]
+- ["10WebSockets0A6SocketC5ErrorO", "_getEmbeddedNSError"]
+- ["10WebSockets0A6SocketC5ErrorO", "_userInfo"]
+- ["10WebSockets0A6SocketC5ErrorO", "deinit"]
+- ["10WebSockets0A6SocketC5ErrorO", "hashValue"]
+- ["10WebSockets0A6SocketC5ErrorO", "invalidPingFormat"]
+- ["10WebSockets0A6SocketC5ErrorO", "unexpectedFragmentFrame"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "hashValue"]
+- ["s8HashableP", ""]
+- ["s8HashableP", "_code"]
+- ["s8HashableP", "_domain"]
+- ["s8HashableP", "_getEmbeddedNSError"]
+- ["s8HashableP", "_userInfo"]
+- ["s8HashableP", "hashValue"]
+- ["10WebSockets0A6SocketC", "Error"]
+- ["10WebSockets0A6SocketC", "Swift"]
+depends-nominal:
+- "s9EquatableP"
+- "10WebSockets0A6SocketC5ErrorO"
+- "s5ErrorP"
+- "s8HashableP"
+- "10WebSockets0A6SocketC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/URI.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/HTTP.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/TLS.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Crypto.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Sockets.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Transport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "b457c19ff74434d67e60af997a41b318"

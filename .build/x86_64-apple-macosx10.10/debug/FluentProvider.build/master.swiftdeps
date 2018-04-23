@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "acd42d44193778bb1bc7304e099df199"
+build_time: [1524472573, 352878000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Cache.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Config+Driver.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Config+Preparation.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Droplet+Prepare.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Droplet+Storage.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Exports.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/Filterable.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/FilterableKey+String.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/FilterableKey.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/Query+Filterable.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Model.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Node+Row+JSON.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Pagination.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Prepare.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Provider.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/SQLite+Config.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/Request+Updateable.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/Updateable.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/UpdateableKey.swift": [1524466196, 0]

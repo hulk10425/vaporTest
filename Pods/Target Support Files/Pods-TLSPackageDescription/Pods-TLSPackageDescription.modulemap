@@ -1,0 +1,6 @@
+framework module Pods_TLSPackageDescription {
+  umbrella header "Pods-TLSPackageDescription-umbrella.h"
+
+  export *
+  module * { export * }
+}

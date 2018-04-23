@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "e4bc447870d2e2aee601149f19884925"
+build_time: [1524472811, 691603000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/AFError.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/Alamofire.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/DispatchQueue+Alamofire.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/MultipartFormData.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/NetworkReachabilityManager.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/Notifications.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/ParameterEncoding.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/Request.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/Response.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/ResponseSerialization.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/Result.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/ServerTrustPolicy.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/SessionDelegate.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/SessionManager.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/TaskDelegate.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/Timeline.swift": [1524472205, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/Alamofire.git-6801331143877184500/Source/Validation.swift": [1524472205, 0]

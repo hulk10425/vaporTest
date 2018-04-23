@@ -1,0 +1,6 @@
+framework module Pods_DebuggingPackageDescription {
+  umbrella header "Pods-DebuggingPackageDescription-umbrella.h"
+
+  export *
+  module * { export * }
+}

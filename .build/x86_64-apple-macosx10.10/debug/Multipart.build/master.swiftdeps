@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "916c9e388977983893434d4ad0a1f88d"
+build_time: [1524472565, 198938000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/BoundaryParser.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/HeaderParser.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Multipart+BytesConvertible.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Parser.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Part.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Serializer.swift": [1524466197, 0]

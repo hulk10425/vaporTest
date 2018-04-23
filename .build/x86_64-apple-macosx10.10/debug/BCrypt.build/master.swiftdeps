@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "abd6c81a95fc419fb9157eebaf91e718"
+build_time: [1524472553, 563688000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/BCryptError.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Base64.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Convenience.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Export.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Hash.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Keys.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Parser.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Salt.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Serializer.swift": [1524466194, 0]

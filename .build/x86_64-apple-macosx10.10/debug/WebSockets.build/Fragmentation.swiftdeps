@@ -1,0 +1,206 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "10WebSockets0A6SocketC18FragmentAggregatorC"
+- "10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO"
+provides-member:
+- ["10WebSockets0A6SocketC", ""]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", ""]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", ""]
+- ["10WebSockets0A6SocketC", "FragmentAggregator"]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Bytes"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Swift"
+- "WebSocket"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "first"]
+- !private ["Sa", "last"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "first"]
+- !private ["s23BidirectionalCollectionP", "last"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "last"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "first"]
+- !private ["s10CollectionP", "last"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "last"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "last"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "last"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "first"]
+- !private ["s9DecodableP", "last"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "first"]
+- !private ["s9EncodableP", "last"]
+- ["s9EquatableP", ""]
+- ["s9EquatableP", "_code"]
+- ["s9EquatableP", "_domain"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "_getEmbeddedNSError"]
+- ["s9EquatableP", "_userInfo"]
+- !private ["s9EquatableP", "append"]
+- !private ["s9EquatableP", "first"]
+- ["s9EquatableP", "hashValue"]
+- !private ["s9EquatableP", "last"]
+- !private ["s9EquatableP", "receivedUnfragmentedFrame"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", "__derived_enum_equals"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", "_code"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", "_domain"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", "_getEmbeddedNSError"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", "_userInfo"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", "deinit"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", "hashValue"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO", "receivedUnfragmentedFrame"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "hashValue"]
+- !private ["s5ErrorP", "receivedUnfragmentedFrame"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "last"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "Bool"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "Bytes"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "Error"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "Frame"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "Swift"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "append"]
+- !private ["10WebSockets0A6SocketC18FragmentAggregatorC", "currentBuffer"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "deinit"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "init"]
+- !private ["10WebSockets0A6SocketC18FragmentAggregatorC", "messageComplete"]
+- ["10WebSockets0A6SocketC18FragmentAggregatorC", "receiveCompleteMessage"]
+- ["10WebSockets0A6SocketC5FrameC", "OpCode"]
+- !private ["10WebSockets0A6SocketC5FrameC", "header"]
+- !private ["10WebSockets0A6SocketC5FrameC", "isFragment"]
+- !private ["10WebSockets0A6SocketC5FrameC", "isFragmentFooter"]
+- !private ["10WebSockets0A6SocketC5FrameC", "isFragmentHeader"]
+- !private ["10WebSockets0A6SocketC5FrameC", "payload"]
+- ["s8HashableP", ""]
+- ["s8HashableP", "_code"]
+- ["s8HashableP", "_domain"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "_getEmbeddedNSError"]
+- ["s8HashableP", "_userInfo"]
+- ["s8HashableP", "hashValue"]
+- !private ["s8HashableP", "receivedUnfragmentedFrame"]
+- !private ["10WebSockets0A6SocketC5FrameC6HeaderV", "opCode"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "first"]
+- !private ["s17MutableCollectionP", "last"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "first"]
+- !private ["s22RandomAccessCollectionP", "last"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "first"]
+- !private ["s26RangeReplaceableCollectionP", "last"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "first"]
+- !private ["s8SequenceP", "last"]
+- ["10WebSockets0A6SocketC", "Bool"]
+- ["10WebSockets0A6SocketC", "Bytes"]
+- ["10WebSockets0A6SocketC", "FragmentAggregator"]
+- ["10WebSockets0A6SocketC", "Frame"]
+- ["10WebSockets0A6SocketC", "Swift"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "last"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "last"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "last"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "10WebSockets0A6SocketC18FragmentAggregatorC5ErrorO"
+- "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "10WebSockets0A6SocketC18FragmentAggregatorC"
+- "10WebSockets0A6SocketC5FrameC"
+- "s8HashableP"
+- !private "10WebSockets0A6SocketC5FrameC6HeaderV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s17MutableCollectionP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- "10WebSockets0A6SocketC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/URI.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/HTTP.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/TLS.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Crypto.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Sockets.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/Transport.swiftmodule"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/chenzuncheng/Desktop/vaporTest/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "c7351fd7b246b7bbab9ace5328029262"

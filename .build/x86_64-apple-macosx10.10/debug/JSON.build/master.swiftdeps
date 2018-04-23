@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "f5a645ccdf732115274bbcc99c776b09"
+build_time: [1524472557, 580886000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Bytes.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Fuzzy.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Parse.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Serialize.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONContext.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONRepresentable.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/json.git-9153249592855998091/Sources/JSON/Sequence+Convertible.swift": [1524466196, 0]

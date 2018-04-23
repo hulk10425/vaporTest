@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "d9dd15b4778d810b721ef970299842d8"
+build_time: [1524472552, 309411000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Exports.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ClientStream.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/InternetStream.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/Port.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ServerStream.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/FoundationStream.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/ReadableStream.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/Stream.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/StreamError.swift": [1524466195, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/WriteableStream.swift": [1524466195, 0]

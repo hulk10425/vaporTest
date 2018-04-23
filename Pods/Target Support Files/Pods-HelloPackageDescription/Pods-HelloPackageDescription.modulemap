@@ -1,0 +1,6 @@
+framework module Pods_HelloPackageDescription {
+  umbrella header "Pods-HelloPackageDescription-umbrella.h"
+
+  export *
+  module * { export * }
+}

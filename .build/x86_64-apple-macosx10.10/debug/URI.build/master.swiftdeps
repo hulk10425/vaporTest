@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "eaa1e843b06372df0da5e6776e599997"
+build_time: [1524472553, 864306000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Byte.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Modification.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Ports.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+String.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Parser/Parser.swift": [1524466197, 0]

@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "3a52b94da7f6d71daf23a14851cc6230"
+build_time: [1524472566, 838356000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/CacheSessions.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/MemorySessions.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/Request+Session.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/Session.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsError.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsMiddleware.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsProtocol.swift": [1524466197, 0]

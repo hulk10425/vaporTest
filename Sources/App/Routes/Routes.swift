@@ -1,5 +1,6 @@
 import Vapor
 
+
 extension Droplet {
     func setupRoutes() throws {
         get("hello") { req in
@@ -26,4 +27,9 @@ extension Droplet {
         
         try resource("posts", PostController.self)
     }
+}
+
+extension Droplet {
+    
+    
 }

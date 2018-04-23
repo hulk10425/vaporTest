@@ -1,0 +1,6 @@
+framework module Pods_SMTP {
+  umbrella header "Pods-SMTP-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "249adbfa5f6560172e1d836d1566ba50"
+build_time: [1524472552, 305940000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/random.git--3118593962244350674/Sources/Random/Array+Random.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/random.git--3118593962244350674/Sources/Random/EmptyInitializable.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/random.git--3118593962244350674/Sources/Random/Exports.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/random.git--3118593962244350674/Sources/Random/OSRandom.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/random.git--3118593962244350674/Sources/Random/RandomProtocol.swift": [1524466196, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/random.git--3118593962244350674/Sources/Random/URandom.swift": [1524466196, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "2ab0cf7c4c7ff55ef43d6259dc29b726"
+build_time: [1524472547, 133295000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable+Subscripting.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable.swift": [1524470444, 0]

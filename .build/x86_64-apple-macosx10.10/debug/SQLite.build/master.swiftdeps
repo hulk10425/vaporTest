@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "4629dc99f6f742417c5414db9d966216"
+build_time: [1524472557, 582522000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Result.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Statement.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite.swift": [1524466194, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/StatusError.swift": [1524466194, 0]

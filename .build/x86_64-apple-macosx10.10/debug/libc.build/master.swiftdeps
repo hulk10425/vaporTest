@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "2a7236a9590dca391a2ae98eb894de07"
+build_time: [1524472547, 123289000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [1524466195, 0]

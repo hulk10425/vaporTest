@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "ef4f3abc864d87f6171473a88089733b"
+build_time: [1524472816, 255537000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/Sources/App/Controllers/PostController.swift": [1524461693, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/Sources/App/Models/Post.swift": [1524461693, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/Sources/App/Routes/Routes.swift": [1524472029, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/Sources/App/Setup/Config+Setup.swift": [1524461693, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/Sources/App/Setup/Droplet+Setup.swift": [1524461693, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "3471075afba18bf7a868a71143ade755"
+build_time: [1524472547, 128308000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": [1524466194, 0]

@@ -1,0 +1,6 @@
+framework module Pods_SocketsPackageDescription {
+  umbrella header "Pods-SocketsPackageDescription-umbrella.h"
+
+  export *
+  module * { export * }
+}

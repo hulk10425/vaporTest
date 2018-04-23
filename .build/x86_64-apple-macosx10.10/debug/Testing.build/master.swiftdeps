@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "4783cfd1cbfb46ea92f32c36ca8cfe2d"
+build_time: [1524472573, 352656000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Bytes.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Exports.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Request.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Responder.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Response.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/TestingError.swift": [1524466197, 0]

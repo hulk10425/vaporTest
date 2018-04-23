@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "57b0a93303f3fac74e51a51b73f87878"
+build_time: [1524472557, 574273000]
+inputs:
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/CacheProtocol.swift": [1524466197, 0]
+  "/Users/chenzuncheng/Desktop/vaporTest/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/MemoryCache.swift": [1524466197, 0]
