@@ -1,7 +1,7 @@
 // swift-tools-version:4.0
 
 import PackageDescription
-import Alamofire
+//import Alamofire
 
 let package = Package(
     name: "Hello",
