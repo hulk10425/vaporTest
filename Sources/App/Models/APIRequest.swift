@@ -6,16 +6,16 @@
 //
 
 import Foundation
-import Alamofire
+//import Alamofire
 
 class APIRequest: NSObject {
     
-    class func httpPost(body: Parameters,
-                        responseHandler: @escaping(DataResponse<Any>) -> Void) {
-        
-        
-        
-    }
+//    class func httpPost(body: Parameters,
+//                        responseHandler: @escaping(DataResponse<Any>) -> Void) {
+//        
+//        
+//        
+//    }
     
     
     
