@@ -10,15 +10,15 @@ let package = Package(
         .executable(name: "Run", targets: ["Run"])
     ],
     dependencies: [
-        .package(url: "https://github.com/vapor/vapor.git", .upToNextMajor(from: "3.0.0")),
-        .package(url: "https://github.com/vapor/fluent-provider.git", .upToNextMajor(from: "2.0.0")),
-        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.0.0")),
+        .package(url: "https://github.com/vapor/vapor.git", .upToNextMajor(from: "2.1.0")),
+        .package(url: "https://github.com/vapor/fluent-provider.git", .upToNextMajor(from: "1.2.0")),
+        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "4.0.0")),
         
     ],
     targets: [
         .target(
             name: "App",
-            dependencies: ["Vapor", "FluentProvider", "Alamofire"],
+            dependencies: ["Vapor", "FluentProvider"],
             exclude: ["Config", "Public", "Resources"]
         ),
         .target(name: "Run", dependencies: ["App"]),
