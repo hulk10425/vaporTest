@@ -20,6 +20,8 @@ extension Droplet {
         }
         
         get("test") { req in
+            
+            print("123")
             return "this is test"
         }
 
