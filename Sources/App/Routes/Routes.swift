@@ -17,6 +17,10 @@ extension Droplet {
         get("info") { req in
             return req.description
         }
+        
+        get("test") { req in
+            return "this is test"
+        }
 
         get("description") { req in return req.description }
         
